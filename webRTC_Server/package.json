@@ -1,0 +1,14 @@
+{
+  "name": "symple-webrtc-native-video-lookvr",
+  "title": "Symple WebRTC Native Video LookVR",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "symple" : "*",
+    "express" : "~4.13.3",
+    "ejs" : "~2.3.4"
+  }
+}

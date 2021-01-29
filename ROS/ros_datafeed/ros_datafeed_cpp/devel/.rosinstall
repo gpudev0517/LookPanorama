@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jiangcheng/ros_datafeed/ros_datafeed_cpp/devel/setup.sh

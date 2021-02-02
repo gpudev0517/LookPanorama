@@ -113,7 +113,3 @@ To build the application PanoOne, the following are the dependencies
 * Code review
 * Other guidelines
 
-### Who do I talk to? ###
-
-* Ram Sampath (ram@centroidpic.com)
-* Jack Devlin (jDevlin685@outlook.com)
